@@ -1,0 +1,37 @@
+body {
+	background-color: #DDF3D8;
+}
+td {
+	padding: 0px;
+}
+#title {
+	text-align: center;
+}
+#base {
+	width: 75%;
+	border: 0;
+}
+#img{
+	max-width: 100%;
+	align-items: center;
+}
+#final {
+	justify-content: center;
+}
+.table {
+	width: 100%;
+	border: 0px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+.adress {
+	background-color: #6E6E6E;
+	align-content: left;
+}
+.tdDate {
+	width: 15%;
+}
+.tdVoid {
+	width: 10%;
+	height: 54px;
+}
